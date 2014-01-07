@@ -20,6 +20,10 @@ Description:
 
 UAnew is a URBI module implementing ANEW with word search functionality.
 
+
+The ANEW database was created during the "Norms of valence, arousal, and dominance for 13,915 English lemmas" research (http://crr.ugent.be/papers/Warriner_et_al_affective_ratings.pdf) by Amy Beth Warriner, Victor Kuperman and Marc Brysbaert. It is available free of charge for non-commercial usage under the Creative Commons 3.0 license (http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
+
+
 ANEW (Affective Norms for English Words) is a database containing valence (pleasure), arousal and dominance
 ratings for a large number of English words. It can be used for evaluating a word or a set of words in terms
 of feelings it is associated with by a computer.
